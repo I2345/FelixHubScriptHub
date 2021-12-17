@@ -1,0 +1,1 @@
+Game.Workspace.RemoteEvents.ShopBuyEvent:FireServer(-100000, "D=9Vb7aMuZt!8aMH")

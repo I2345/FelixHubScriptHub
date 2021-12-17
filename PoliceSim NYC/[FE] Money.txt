@@ -1,0 +1,3 @@
+for i=1, 5000 do
+game.Workspace.PlayerServer.PayDay:FireServer()
+end
